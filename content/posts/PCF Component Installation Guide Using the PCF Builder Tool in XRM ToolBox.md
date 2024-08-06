@@ -18,7 +18,7 @@ In this guide, we'll walk through the steps to install a PowerApps Component Fra
 Before you begin, ensure you have the following:
 
 - [XRM ToolBox](https://www.xrmtoolbox.com/) installed on your machine.
-- The [PCF Builder](https://www.xrmtoolbox.com/plugins/Xrm.Tools.PcfBuilder/) tool installed within XRM ToolBox.
+- The [PCF Builder](https://www.xrmtoolbox.com/plugins/Maverick.PCF.Builder/) tool installed within XRM ToolBox.
 - An environment in PowerApps where you have permissions to import and use custom components.
 - The necessary software development environment set up, including Node.js and the PowerApps CLI.
 
