@@ -1,4 +1,5 @@
-baseURL = 'https://devtact.github.io/hugo-demo'
+baseURL = 'https://devtact.github.io/dyanmics365'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'D365 BLOG'
 theme='hugo-PaperMod'
+googleAnalytics = 'G-VTETPRK4VY'

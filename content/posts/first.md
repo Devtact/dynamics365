@@ -7,8 +7,6 @@ categories = ['Tutorials', 'Power Platform','D365','Dynamics CRM']
 author = 'Manishkumar Vishwakarma'
 +++
 
-# PCF Component Installation Guide
-
 ## Introduction
 
 In this guide, we'll walk through the steps to install a PowerApps Component Framework (PCF) component in your PowerApps environment. PCF components allow you to create custom controls that can enhance the user experience in PowerApps by providing rich, interactive UI elements.
