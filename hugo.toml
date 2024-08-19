@@ -1,4 +1,4 @@
-baseURL = 'https://devtact.github.io/dyanmics365'
+baseURL = 'https://devtact.github.io/dynamics365'
 languageCode = 'en-us'
 title = 'D365 BLOG'
 theme='hugo-PaperMod'
