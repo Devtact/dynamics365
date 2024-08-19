@@ -1,4 +1,4 @@
----
++++
 title: "Mastering Dynamics 365 Field Population with Power Automate: A Comprehensive Guide"
 date: 2024-08-19T17:45:21+05:30
 draft: false
@@ -6,7 +6,7 @@ tags: ["dynamics 365", "power automate", "field population"]
 categories: ["technology", "how-to"]
 description: "Learn how to effectively populate Dynamics 365 fields using Power Automate, covering different data types, challenges, and best practices."
 author = 'Manishkumar Vishwakarma'
----
++++
 
 ## Mastering Dynamics 365 Field Population with Power Automate: A Comprehensive Guide
 
