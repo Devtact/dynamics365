@@ -1,5 +1,5 @@
 # How to Put FetchXML in PCF Control Property with Static and Dynamic Values
-+++
+---
 title= 'How to Put FetchXML in PCF Control Property with Static and Dynamic Values'
 date=2025-05-18T17:45:21+05:30
 draft=false
@@ -7,7 +7,7 @@ tags=['dynamics 365', 'pcf', 'fetchxml']
 categories=['technology', 'how-to']
 description='Learn how to embed FetchXML in PCF control properties, covering both static and dynamic values for enhanced data retrieval.'
 author = 'Manishkumar Vishwakarma'
-+++
+---
 
 ## Introduction
 
