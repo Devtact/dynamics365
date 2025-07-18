@@ -1,13 +1,14 @@
++++
+title= 'Implementing Webhooks for Real-Time D365 Integrations'
+date= 2025-05-18T17:45:21+05:30
+draft= false
+tags= ['dynamics 365', 'webhooks', 'real-time integration', 'crm', 'data synchronization']
+categories= ['technology', 'integration', 'how-to']
+description= 'Learn how to implement webhooks for real-time Microsoft Dynamics 365 integrations, enabling seamless data synchronization and enhanced system responsiveness.'
+author= 'Manishkumar Vishwakarma'
++++
+
 # Implementing Webhooks for Real-Time D365 Integrations
-+++
-title: 'Implementing Webhooks for Real-Time D365 Integrations'
-date: 2025-05-18T17:45:21+05:30
-draft: false
-tags: ['dynamics 365', 'webhooks', 'real-time integration', 'crm', 'data synchronization']
-categories: ['technology', 'integration', 'how-to']
-description: 'Learn how to implement webhooks for real-time Microsoft Dynamics 365 integrations, enabling seamless data synchronization and enhanced system responsiveness.'
-author: 'Manishkumar Vishwakarma'
-+++
 
 # Introduction
 
