@@ -1,4 +1,15 @@
 # How to Put FetchXML in PCF Control Property with Static and Dynamic Values
++++
+title= 'How to Put FetchXML in PCF Control Property with Static and Dynamic Values'
+date=2025-05-18T17:45:21+05:30
+draft=false
+tags=['dynamics 365', 'pcf', 'fetchxml']
+categories=['technology', 'how-to']
+description='Learn how to embed FetchXML in PCF control properties, covering both static and dynamic values for enhanced data retrieval.'
+author = 'Manishkumar Vishwakarma'
++++
+
+## Introduction
 
 PowerApps Component Framework (PCF) allows developers to create custom controls for model-driven and canvas apps. One common requirement when working with PCF controls is to use FetchXML queries to retrieve data from Dataverse. This blog will guide you through the process of embedding FetchXML in PCF control properties, covering both static and dynamic values.
 
