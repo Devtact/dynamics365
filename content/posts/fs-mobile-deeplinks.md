@@ -120,7 +120,8 @@ ms-apps-fs://org2605dc9c.crm8.dynamics.com_49b36e09-1aba-f011-bbd3-6045bda5eb64?
 > **What users see**  
 > A prefilled **New Corrective Actions** form (your targeted form) ready to save.
 
-![Prefilled “New Corrective Actions” form in Field Service Mobile](images/new-corrective-actions.png)
+<img width="1869" height="324" alt="image" src="https://github.com/user-attachments/assets/20f389a5-5b91-45b1-9ecf-80297863fa88" />
+<img width="770" height="461" alt="image" src="https://github.com/user-attachments/assets/37d8a6db-6f5f-4771-9103-f1738446f838" />
 
 **Docs:**  
 - FS deep links: https://learn.microsoft.com/en-us/dynamics365/guidance/resources/field-service-mobile-use-deep-links  
