@@ -14,7 +14,7 @@ cover=
   caption= "New Corrective Actions form opened from a deep link with defaults"
 +++
 
-> **TL;DR**  
+ 
 > - Use the **Field Service Mobile handler**: `ms-apps-fs://<org-url>_<app-id>?…` to open model-driven forms directly in the mobile app.  
 > - To **create** a record, **leave `id=` blank**.  
 > - To **prefill fields**, pack defaults into a single `extraqs` value; inside `extraqs` **separate pairs with `%26`** (encoded `&`) and **URL‑encode** values.  
